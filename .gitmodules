@@ -1,0 +1,15 @@
+[submodule "geco_vm"]
+	path = geco_vm
+	url = https://github.com/stefco/geco_vm
+[submodule "geco_stat"]
+	path = geco_stat
+	url = https://github.com/stefco/geco_stat
+[submodule "geco_plots"]
+	path = geco_plots
+	url = https://github.com/stefco/geco_plots
+[submodule "geco_channels"]
+	path = geco_channels
+	url = https://github.com/stefco/geco_channels
+[submodule "geco_data"]
+	path = geco_data
+	url = https://github.com/stefco/geco_data
